@@ -69,7 +69,6 @@ Explain the following, and how they are useful.
 ##### assumeFalse, assumeTrue
 
 - These are used to support conditional test execution based on assumptions. Assumptions are typically used whenever it does not make sense to continue execution of a given test method. In test report, these test will be marked as passed.
-
 - assumeTrue() validates the given assumption to true and if assumption is true – test proceed, otherwise test execution is aborted.
 - assumeFalse() validates the given assumption to false and if assumption is false – test proceed, otherwise test execution is aborted. 
 

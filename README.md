@@ -74,10 +74,19 @@ Explain the following, and how they are useful.
 
 #### 3.2 Mocking frameworks
 
-Investigate mocking frameworks for your preferred language. Choose at least
-two frameworks, and answer the questions.
+I have choosen to compare Mockito and EasyMock which is two mocking frameworks used within Java. 
 
 ##### What are their similarities?
+
+- Mockito and EasyMock are both open-source, Java-based mocking framework used in unit testing. They are also easily configured with annotations to help defining mocks and the object-under-test, with runners to make mock injection easier.
+
+- Mockito allows the creation of mock objects in automated unit tests for the purpose of test-driven development (TDD) or behavior-driven development (BDD). It is used along with other testing frameworks e.g. JUnit.
+
 ##### What are their differences?
+
+- Where Mockito differs from EasyMock is in the way it deals with expectations. In EasyMock the expectations have to be recorded. Mockito does not do require that. Instead it's possible to verify mock invocation verifications (of your choosing) AFTER the test is executed.
+
 ##### Which one would you prefer, if any, and why?
+
+- I find it difficult to prefer one above the other, as I have very limited knowledge and little experience with both mocking frameworks. I see that Mockito have gotten a lot of recognition and seems to have a lot of support, which is very important as a newly educated developer.
  

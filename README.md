@@ -34,7 +34,7 @@ Complete the Bowling Game Kata using TDD.
 
 #### 3.1 JUnit 5
 
-Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
+Explain the following, and how they are useful.
 
 ##### @Tag
 
@@ -42,7 +42,7 @@ Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
 
 ##### @Disabled
 
-- The @Disabled annotation is used to disable or skip tests at class or method level. When declared at class level, all @test methods are skipped. When @Disabled is declared at method level, only the annotated method is disabled.
+- This annotation is used to disable or skip tests at class or method level. When declared at class level, all @test methods are skipped. When @Disabled is declared at method level, only the annotated method is disabled.
 
 ##### @RepeatedTest
 
@@ -60,10 +60,18 @@ Investigate JUnit 5 (Jupiter). Explain the following, and how they are useful.
 
 ##### @DisplayName
 
-- Test classes and test methods can declare custom display names that will be displayed by test runners and test reports when @DisplayName annotation is being used.
+- This annotation is used to declare custom display names on test classes and test methods, that will then be displayed by test runners and test reports.
 
 ##### @Nested
+
+- This annotation allows to group  several tests classes together, that is testing the same functionality. 
+
 ##### assumeFalse, assumeTrue
+
+- These are used to support conditional test execution based on assumptions. Assumptions are typically used whenever it does not make sense to continue execution of a given test method. In test report, these test will be marked as passed.
+
+- assumeTrue() validates the given assumption to true and if assumption is true – test proceed, otherwise test execution is aborted.
+- assumeFalse() validates the given assumption to false and if assumption is false – test proceed, otherwise test execution is aborted. 
 
 #### 3.2 Mocking frameworks
 

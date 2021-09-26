@@ -16,14 +16,14 @@
 
 #### 3.1 JUnit 5
 
-##### • @Tag
-##### • @Disabled
-##### • @RepeatedTest
-##### • @BeforeEach, @AfterEach
-##### • @BeforeAll, @AfterAll
-##### • @DisplayName
-##### • @Nested
-##### • assumeFalse, assumeTrue
+##### @Tag
+##### @Disabled
+##### @RepeatedTest
+##### @BeforeEach, @AfterEach
+##### @BeforeAll, @AfterAll
+##### @DisplayName
+##### @Nested
+##### assumeFalse, assumeTrue
 
 #### 3.2 Mocking frameworks
 

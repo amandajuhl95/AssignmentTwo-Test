@@ -6,7 +6,7 @@ Made by Amanda Juhl Hansen
 
 ### 1.1 Computer Mouse
 
-Identify the types of testing you would perform on a computer mouse, to make sure that it is of the highest quality.
+<i>Identify the types of testing you would perform on a computer mouse, to make sure that it is of the highest quality.</i>
 
 #### Unit Testing
 - This is dont to test that all parts of the computer mouse individually works as expected. 
@@ -25,7 +25,7 @@ Identify the types of testing you would perform on a computer mouse, to make sur
 
 ### 1.2 Catastrophic failure
 
-Find a story where a software system defect had a bad outcome. Describe what happened. Can you identify a test that would have prevented it?
+<i>Find a story where a software system defect had a bad outcome. Describe what happened. Can you identify a test that would have prevented it?</i>
 
 #### Story about CareFusion's Alaris Pump
 
@@ -35,7 +35,7 @@ Find a story where a software system defect had a bad outcome. Describe what hap
 
 ## 2 - Two katas
 
-Complete the following using TDD. Remember the TDD mantra
+<i>Complete the following using TDD. Remember the TDD mantra</i>
 
 ### 2.1 String utility
 
@@ -53,7 +53,7 @@ Complete the Bowling Game Kata using TDD.
 
 ### 3.1 JUnit 5
 
-Explain the following, and how they are useful.
+<i>Explain the following, and how they are useful.</i>
 
 #### @Tag
 

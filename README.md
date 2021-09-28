@@ -25,8 +25,13 @@ Identify the types of testing you would perform on a computer mouse, to make sur
 
 ### 1.2 Catastrophic failure
 
-Find a story where a software system defect had a bad outcome. Describe
-what happened. Can you identify a test that would have prevented it?
+Find a story where a software system defect had a bad outcome. Describe what happened. Can you identify a test that would have prevented it?
+
+[Link to story](https://www.fiercebiotech.com/medical-devices/carefusion-runs-into-more-deadly-trouble-infusion-pump)
+
+This is an article about CareFusion's Alaris pump that is a medical equipment. In 2015, the CareFusion Alaris Pump, which is designed to automatically deliver fluids and medicine to hospital patients, had a software error that caused the pump to delay infusion. 
+
+- This product relies very much on performance of the software, therefore it makes sense to do a thorough Performance Test that examines the speed, stability, reliability, scalability, and resource usage of the software under a specified workload. 
 
 ## 2 - Two katas
 

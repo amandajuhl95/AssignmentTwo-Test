@@ -27,11 +27,12 @@ Identify the types of testing you would perform on a computer mouse, to make sur
 
 Find a story where a software system defect had a bad outcome. Describe what happened. Can you identify a test that would have prevented it?
 
-[Link to story](https://www.fiercebiotech.com/medical-devices/carefusion-runs-into-more-deadly-trouble-infusion-pump)
+#### Story about CareFusion's Alaris Pump
+- [Link to story](https://www.fiercebiotech.com/medical-devices/carefusion-runs-into-more-deadly-trouble-infusion-pump)
 
-This is an article about CareFusion's Alaris pump that is a medical equipment. In 2015, the CareFusion Alaris Pump, which is designed to automatically deliver fluids and medicine to hospital patients, had a software error that caused the pump to delay infusion. 
+- This is an article about the CareFusion Alaris Pump, which is designed to automatically deliver fluids and medicine to hospital patients. In 2015 this device had a software error that caused the pump to delay infusion. 
 
-- This product relies very much on performance of the software, therefore it makes sense to do a thorough Performance Test that examines the speed, stability, reliability, scalability, and resource usage of the software under a specified workload. 
+- This product relies very much on performance of the software, therefore it makes sense to do a thorough <b>Performance Test</b> that examines the speed, stability, reliability, scalability, and resource usage of the software under a specified workload. 
 
 ## 2 - Two katas
 

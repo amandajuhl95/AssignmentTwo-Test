@@ -6,8 +6,24 @@ Made by Amanda Juhl Hansen
 
 ### 1.1 Computer Mouse
 
-Identify the types of testing you would perform on a computer mouse, to
-make sure that it is of the highest quality.
+Identify the types of testing you would perform on a computer mouse, to make sure that it is of the highest quality.
+
+##### Unit Testing
+This is dont to test that all parts of the computer mouse individually works as expected. 
+
+##### Functionality Testing
+This is done to test every click function that the computer mouse has. 
+
+##### Performance Testing 
+This is done to test the speed, meaning how quick the computer mouse reacts on a movement. 
+
+##### Stress Testing 
+This is done by doing activity that tests beyond normal operational capacity to test the results of the computer mouse. Acivities like brining it in a bagpack that contains other things.
+
+##### Integration Testing 
+This is done to ensure that the entire and integrated computer mouse meets the set of requirements. 
+
+as one whole in the end to ensure high quality.
 
 ### 1.2 Catastrophic failure
 

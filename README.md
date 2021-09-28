@@ -93,13 +93,13 @@ Complete the Bowling Game Kata using TDD.
 
 ### 3.2 Mocking frameworks
 
+<i>Choose at least two mocking frameworks, and answer the questions.</i>
+
 I have choosen to compare Mockito and EasyMock which is two mocking frameworks used within Java. 
 
 #### What are their similarities?
 
 - Mockito and EasyMock are both open-source, Java-based mocking framework used in unit testing. They are also easily configured with annotations to help defining mocks and the object-under-test, with runners to make mock injection easier.
-
-- Mockito allows the creation of mock objects in automated unit tests for the purpose of test-driven development (TDD) or behavior-driven development (BDD). It is used along with other testing frameworks e.g. JUnit.
 
 #### What are their differences?
 

@@ -41,13 +41,17 @@ Made by Amanda Juhl Hansen
 
 Use TDD to create a string utility with the following methods:
 
-#### Reverse string (aBc -> cBa)
-#### Capitalize string (aBc -> ABC)
-#### Lowercase string (aBc -> abc)
+#### Reverse string (aBc -> cBa) and Capitalize string (aBc -> ABC) and Lowercase string (aBc -> abc)
+
+- Link to [testfile](https://github.com/amandajuhl95/AssignmentTwo-Test/blob/master/src/test/java/KatasTest.java)
+- Link to [methods](https://github.com/amandajuhl95/AssignmentTwo-Test/blob/master/src/main/java/Katas.java)
 
 ### 2.2 Bowling game kata
 
-Complete the Bowling Game Kata using TDD.
+##### Complete the Bowling Game Kata using TDD.
+
+- Link to [testfile](https://github.com/amandajuhl95/AssignmentTwo-Test/blob/master/src/test/java/BowlingGameTest.java)
+- Link to [methods](https://github.com/amandajuhl95/AssignmentTwo-Test/blob/master/src/main/java/bowlingGame/Game.java)
 
 ## 3 - Investigation of tools
 

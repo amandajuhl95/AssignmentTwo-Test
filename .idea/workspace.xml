@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51075a7-d06a-41ce-9c44-03ba74c28290" name="Changes" comment="" />
+    <list default="true" id="f51075a7-d06a-41ce-9c44-03ba74c28290" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Katas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Katas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Katas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Katas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bowlingGame/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bowlingGame/Game.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,42 +44,12 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BowlingGameTest">
+  <component name="RunManager" selected="JUnit.KatasTest">
     <configuration name="BowlingGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AssignmentTwo-Test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BowlingGameTest.testAllOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AssignmentTwo-Test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
-      <option name="METHOD_NAME" value="testAllOnes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BowlingGameTest.testGutterGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AssignmentTwo-Test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
-      <option name="METHOD_NAME" value="testGutterGame" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BowlingGameTest.testOneSpare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AssignmentTwo-Test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BowlingGameTest" />
-      <option name="METHOD_NAME" value="testOneSpare" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,13 +64,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KatasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentTwo-Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KatasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KatasTest.testReverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentTwo-Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KatasTest" />
+      <option name="METHOD_NAME" value="testReverseString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KatasTest.testStringToUpperCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentTwo-Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KatasTest" />
+      <option name="METHOD_NAME" value="testStringToUpperCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KatasTest" />
+        <item itemvalue="JUnit.KatasTest.testStringToUpperCase" />
+        <item itemvalue="JUnit.KatasTest.testReverseString" />
         <item itemvalue="JUnit.BowlingGameTest" />
         <item itemvalue="JUnit.BowlingGameTest.testOneStrike" />
-        <item itemvalue="JUnit.BowlingGameTest.testOneSpare" />
-        <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
-        <item itemvalue="JUnit.BowlingGameTest.testGutterGame" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +111,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632850614849</updated>
-      <workItem from="1632850631288" duration="6195000" />
+      <workItem from="1632850631288" duration="6837000" />
+      <workItem from="1633358715646" duration="1384000" />
     </task>
     <servers />
   </component>

@@ -1,22 +1,46 @@
-import java.util.Locale;
 
 public class Katas {
 
     public String reverseString(String str) {
 
-        StringBuilder builder = new StringBuilder(str);
-        builder.reverse();
-        return builder.toString();
-    }
+        String result = "";
 
+        for(int i = str.length()-1; i >= 0; --i) {
+            result += str.charAt(i);
+        }
+
+        return result;
+    }
 
     public String stringToUpperCase(String str) {
 
-        return str.toUpperCase();
+        String result = "";
+        char ch = ' ';
+        for (int i = 0; i < str.length(); i++) {
+
+            if (str.charAt(i) >= 'a' && str.charAt(i) <= 'z') {
+                ch = (char) (str.charAt(i) - 32);
+            } else {
+                ch = str.charAt(i);
+            }
+            result += ch;
+        }
+        return result;
     }
 
     public String stringToLowerCase(String str) {
 
-        return str.toLowerCase();
+        String result = "";
+        char ch = ' ';
+        for (int i = 0; i < str.length(); i++) {
+
+            if (str.charAt(i) >= 'A' && str.charAt(i) <= 'Z') {
+                ch = (char) (str.charAt(i) + 32);
+            } else {
+                ch = str.charAt(i);
+            }
+            result += ch;
+        }
+        return result;
     }
 }

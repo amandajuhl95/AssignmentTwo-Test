@@ -8,9 +8,6 @@ Made by Amanda Juhl Hansen
 
 <i>Identify the types of testing you would perform on a computer mouse, to make sure that it is of the highest quality.</i>
 
-#### Unit Testing
-- This is dont to test that all parts of the computer mouse individually works as expected. 
-
 #### Functionality Testing
 - This is done to test every click function that the computer mouse has. 
 
